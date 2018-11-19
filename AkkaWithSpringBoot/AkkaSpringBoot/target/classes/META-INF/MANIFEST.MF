@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AkkaSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: a0s02bx
+Implementation-Vendor-Id: com.spring.akka
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AkkaSpringBoot
+Created-By: Maven Integration for Eclipse
+
